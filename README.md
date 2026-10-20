@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chetna Manral</h1>
+<h1 align="center">Hi 👋, I'm Chetna</h1>
 <h3 align="center">A Curious analyst seeking through the data to gather insights.</h3>
 
 - 🔭 I’m currently working on **ISL classification through LSTM**
